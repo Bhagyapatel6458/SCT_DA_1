@@ -1,9 +1,10 @@
 # Superstore Sales Dashboard - Task 1
 
 ## 📊 Project Overview
-An interactive Excel Sales Dashboard built using 
-the Superstore Sales Dataset as part of Data 
-Analyst Internship at SkillCraft Technology.
+An interactive Excel Sales Dashboard built 
+using the Superstore Sales Dataset as part 
+of Data Analyst Internship at 
+SkillCraft Technology.
 
 ## 🛠️ Tools Used
 - Microsoft Excel
@@ -12,27 +13,30 @@ Analyst Internship at SkillCraft Technology.
 - Conditional Formatting
 
 ## 📁 Dataset
-- Source: Superstore Sales Dataset (train.csv)
+- Source: Superstore Sales Dataset
+- Records: 9994 rows of sales data
 - Fields: Order ID, Category, Region, 
-  Segment, Sales, etc.
+  Segment, Sales, Profit, Discount, 
+  Quantity etc.
 
 ## 📈 Dashboard Features
-- Sales by Category (Column Chart)
-- Sales by Region (Column Chart)
+- Sales & Profit by Category (Column Chart)
 - Sales Trend by Year (Line Chart)
-- Sales by Segment (Pie Chart)
-- Conditional Formatting to highlight 
-  high/low sales
+- Profit by Category (Column Chart)
+- Sales by Region (Pie Chart)
+- Conditional Formatting on Sales, 
+  Profit & Discount columns
 
 ## 🔍 Key Insights
 - Technology is the highest selling category
-- Sales show consistent growth from 2015 to 2018
-- Consumer segment contributes the most 
-  to total sales
+- Office Supplies & Technology have 
+  highest profit
+- Sales grew consistently from 2014 to 2017
+- West region contributes 32% of total sales
+- Furniture has lowest profit margin
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
 
 ## 👩‍💻 Author
-Bhagyashree | Data Analyst Intern 
-SkillCraft Technology
+Bhagyashree | Data Analyst Intern
+SkillCraft Technology | May 2026
