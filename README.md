@@ -37,6 +37,8 @@ SkillCraft Technology.
 
 ## 📸 Dashboard Preview
 
+![Superstore Dashboard](dashboard.png)
+
 ## 👩‍💻 Author
 Bhagyashree | Data Analyst Intern
 SkillCraft Technology | May 2026
